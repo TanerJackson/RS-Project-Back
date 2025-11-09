@@ -1,5 +1,5 @@
 {
-  "name": "RsProject",
+  "name": "rsproject",
   "type": "module",
   "imports": {
     "#*": "./*.js"
